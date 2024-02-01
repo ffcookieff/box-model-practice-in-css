@@ -1,0 +1,28 @@
+div {
+  height: 150px;
+  width: 500px;
+  background-color: aquamarine;
+  color: lightslategray;
+  text-align: justify;
+  border: 3px solid palevioletred;
+  border-top-style: double;
+  border-top-color: black;
+  /* border-radius: 30px; */
+  border-top-right-radius: 12px;
+  border-bottom-left-radius: 12px;
+  padding: 20px 20px 20px 20px;
+}
+
+h1 {
+  border: 3px dashed palevioletred;
+  border-left-style: double;
+  border-left-color: black;
+}
+
+button {
+  border: 5px double lightslategray;
+  color: #fff;
+  background-color: palevioletred;
+  padding: 10px;
+  border-radius: 50px;
+}
